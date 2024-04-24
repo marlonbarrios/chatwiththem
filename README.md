@@ -1,7 +1,7 @@
 # Chat With Them: Infinite Conversations within my Epistemic Vortex
 
 ![Screenshot 2024-04-24 at 4 10 35 PM](https://github.com/marlonbarrios/chatwiththem/assets/90220317/90c0eee0-de03-415e-9d99-dec7800c9a58)
-> Crucially, active inference foregrounds an existential imperative of intelligent systems; namely, curiosity or the resolution of uncertainty. This same imperative underwrites belief sharing in ensembles of agents, in which certain aspects (i.e., factors) of each agent’s generative world model provide a common ground or frame of reference. Active inference plays a foundational role in this ecology of belief sharing—leading to a formal account of collective intelligence that rests on shared narratives and goals. < Carl Friston
+> Crucially, active inference foregrounds an existential imperative of intelligent systems; namely, curiosity or the resolution of uncertainty. This same imperative underwrites belief sharing in ensembles of agents, in which certain aspects (i.e., factors) of each agent’s generative world model provide a common ground or frame of reference. Active inference plays a foundational role in this ecology of belief sharing—leading to a formal account of collective intelligence that rests on shared narratives and goals.  Carl Friston
 
 Chat With Them: Infinite Conversations within my Epistemic Vortex" assembles a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. This virtual assembly ignites a dynamic flow of ideas, enabling rich and diverse conversations that may traverse cultural, philosophical, linguistic, and disciplinary boundaries.
 
