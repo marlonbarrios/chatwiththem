@@ -92,7 +92,7 @@ Marvin-AI (Marvin Minsky) - Pioneer of artificial intelligence and cognitive psy
 ## Outcomes
 
 - **Public Engagement:** The project will culminate in a public website where these virtual conversations can be accessed, fostering a global community of engaged learners.
-- **Educational Impact:** Through these dialogues, participants will gain deeper insights into diverse philosophies and historical perspectives.
+- **Educational Impact:** Through these dialogues and public workshops and exhobotions, participants will gain deeper insights into diverse philosophies and historical perspectives of AI and knwledge production and wil learn how to deploy their own chatbots suing opne soiurce technology.
 
 
 
