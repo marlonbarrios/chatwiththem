@@ -94,5 +94,5 @@ Marvin-AI (Marvin Minsky) - Pioneer of artificial intelligence and cognitive psy
 - **Public Engagement:** The project will culminate in a public website where these virtual conversations can be accessed, fostering a global community of engaged learners.
 - **Educational Impact:** Through these dialogues and public workshops and exhobotions, participants will gain deeper insights into diverse philosophies and historical perspectives of AI and knwledge production and wil learn how to deploy their own chatbots suing opne soiurce technology.
 
-
+Project conceived during art-reserach residency at [Radiona.org](https://radiona.org/radionica-pristup-latentnim-prostorima-uvod-u-generativni-ai-otvorenog-koda-u-stvarnom-vremenu/) in April 2024.
 
