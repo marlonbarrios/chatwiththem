@@ -2,7 +2,6 @@
 
 ![Screenshot 2024-04-24 at 4 10 35 PM](https://github.com/marlonbarrios/chatwiththem/assets/90220317/90c0eee0-de03-415e-9d99-dec7800c9a58)
 
-
 "Chat With Them: Infinite Conversations within my Epistemic Vortex" represents a frontier in art and technology, assembling a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. This virtual assembly ignites a dynamic banquet of ideas, enabling rich and diverse conversations that traverse cultural, philosophical, linguistic, and temporal boundaries.
 
 ## Vision
@@ -29,7 +28,10 @@ Marlon Barrios Solano
 
 ## List of Chatbots
 ![Screenshot 2024-04-24 at 3 23 43 PM](https://github.com/marlonbarrios/chatwiththem/assets/90220317/6b24121a-6253-43fb-8367-562d82bb456a)
+[Kondarionk-AI](https://hf.co/chat/assistant/6629020edfbf0574714d4122)
+
 List of Chatbots
+
 Alan-AI (Alan Turing) - Mathematician and father of modern computing.
 Adrienne-AI (Adrienne Rich) - American poet and feminist.
 Ada-AI (Ada Lovelace) - The first computer programmer.
