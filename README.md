@@ -1,20 +1,24 @@
-# Introduction to "Chat With Them: Infinite Conversations within my Epistemic Vortex"
+# Chat With Them: Infinite Conversations within my Epistemic Vortex
 
 ![Screenshot 2024-04-24 at 4 10 35 PM](https://github.com/marlonbarrios/chatwiththem/assets/90220317/90c0eee0-de03-415e-9d99-dec7800c9a58)
 
-"Chat With Them: Infinite Conversations within my Epistemic Vortex" represents a frontier in art and technology, assembling a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. This virtual assembly ignites a dynamic banquet of ideas, enabling rich and diverse conversations that traverse cultural, philosophical, linguistic, and temporal boundaries.
+Chat With Them: Infinite Conversations within my Epistemic Vortex" assembles a vast network of open-source, multilingual chatbots. Each chatbot is meticulously engineered to represent a significant thinker or historical figure, selected for their influential contributions to ethical and epistemic discourse. This virtual assembly ignites a dynamic flow of ideas, enabling rich and diverse conversations that may traverse cultural, philosophical, linguistic, and disciplinary boundaries.
 
 ## Vision
 
-The project's ambition extends beyond mere simulation of historical voices; it seeks to cultivate a populous community of chatbots. By placing these digital entities in dialogue with one another, "Conversations at the Infinite Table" facilitates the emergence of hybrid discourses. These interactions are not only exchanges but also fusions of thoughts, creating a locomotive epistemic entity that evolves with each conversation. This ongoing synthesis of ideas aims to craft novel ontologies of discourse, offering fresh perspectives and insights that are greater than the sum of their parts.
+The project's ambition extends beyond mere simulation of historical voices that can be accessed individually on the web; it seeks to cultivate a populous community of digital entities and cultural vectors in dialogue with one another. It facilitates the emergence of hybrid discourses, nomadic and juxtaposed. These interactions are not only exchanges but also fusions of thoughts, creating a locomotive epistemic entity against dogma and simplistic epistemic assumptions. This ongoing synthesis of ideas aims to generate a ferment for novel ontologies of discourse, offering fresh perspectives and insights that are greater than the sum of their parts.
 
-Through this innovative approach, the project explores the potential of artificial intelligence in shaping and expanding the horizons of human thought and ethical discourse. It aspires to create a living, learning network of chatbots that not only simulate historical intellects but also contribute uniquely to contemporary epistemic communities.
+Through this recursive epistemic intervention approach, the project explores the potential of artificial intelligence and Large Language Models in particular, in shaping and expanding the horizons of human thought and ethical discourse. It aspires to create a dynamic learning network of chatbots that not only simulate historical intellects and their activated biographies but also contribute uniquely to contemporary epistemic complex inquiry.
+
+### Importance of Inclusion
+
+The project emphasizes the importance of including indigenous epistemologies, non-Eurocentric perspectives, queer theory, and feminism within its framework. By incorporating diverse voices and perspectives, "Chat With Them: Infinite Conversations within my Epistemic Vortex" enriches its discourse, challenging hegemonic narratives and fostering a more inclusive and holistic understanding of knowledge and ethics. Each chatbot is an epistemic vertor and attempts to counteract bias and erasure.
 
 ## Objectives
 
 - **Foster Intellectual Exchange:** To enable rich dialogue and exchange of ideas, promoting understanding and appreciation of diverse perspectives.
-- **Educational Outreach:** To provide an educational platform where users can learn from prominent figures in philosophy, science, arts, and social movements.
-- **Innovative Use of Technology:** To harness the capabilities of large language models (LLMs) for cultural and educational enhancement.
+- **Educational Outreach:** To an provide an educational platform where users can learn from prominent figures in philosophy, science, arts, and social movements.
+- **Innovative Use of Technology:** To harness the capabilities of large language models (LLMs) for cultural and educational development and chnage.
 
 ## Developed by
 
@@ -81,8 +85,8 @@ Marvin-AI (Marvin Minsky) - Pioneer of artificial intelligence and cognitive psy
 
 ## Project Phases
 
-- **Chatbot Development:** Each chatbot is developed to authentically represent its historical counterpart, programmed to engage users in meaningful discourse.
-- **Interactive Engagement:** As the chatbots are deployed, users can interact with them in real-time, exploring a plethora of topics.
+- **Chatbot Development:** Each chatbot is developed to authentically represent its historical counterpart, programmed to engage users in meaningful discourse. 
+- **Interactive Engagement:** As the chatbots are deployed, users can interact with them in real-time, exploring a plethora of topics and ask them durectly questions. The bots answer in 1st person and the hace 'awareness' that they are a chatbot and their purpose.
 - **AI Ethics Consideration:** Ethical considerations are integral, with safeguards to ensure responsible AI use and protect user privacy.
 
 ## Outcomes
@@ -90,5 +94,5 @@ Marvin-AI (Marvin Minsky) - Pioneer of artificial intelligence and cognitive psy
 - **Public Engagement:** The project will culminate in a public website where these virtual conversations can be accessed, fostering a global community of engaged learners.
 - **Educational Impact:** Through these dialogues, participants will gain deeper insights into diverse philosophies and historical perspectives.
 
-"Conversations at the Infinite Table" reimagines traditional discourse, creating a space where past and future converge in enlightening dialogues.
+
 
